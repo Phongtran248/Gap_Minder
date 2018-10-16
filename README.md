@@ -21,3 +21,4 @@ All contribution is highly welcome.
 See the website:[Gapminder](http://www.gapminder.org) for the dataset 
 ## Licences 
 This project is my personal work as a part of the Data Analytics Nanodegree @ Udacity.
+Copyright @ Udacity
