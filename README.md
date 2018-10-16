@@ -9,7 +9,7 @@ CO2 emissions,
 Child mortality,
 Income,
 Life expectancy
-# Project Structure 
+## Project Structure 
 1. Data Gathering
 2. Research Questions
 3. Data Wrangling 
